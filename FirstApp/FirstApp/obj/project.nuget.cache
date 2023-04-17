@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XsZ0aibqFQG4+AM1qCT2/mV+JuyQg4d2lC0ihdTAHEf1FA12xoLZmATCVi+GUYUdSu+ru1q8zL/hJ2uzmFo+tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P328\\FirstApp\\FirstApp\\FirstApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eagha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
